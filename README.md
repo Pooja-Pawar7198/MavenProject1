@@ -4,7 +4,7 @@ A Cake Shop Website built with Spring Framework , JSP, Hibernate, MySql.
 It contain the customer or user and admin login. This system provides information about  cake, category etc. In this Cake shop website after the login customer can be able to place the order.Customer can view all cake related information, order history , confirm order. Also in this project after the login Admin can be able to add the cake related information also admin can view all orders and admin can able to add cakes shop on different locations.
 
 
-![Front page](./ScreenShot/Front page.png)
+
 
 ## Functionality Performed by Customer
 - Customer Registration: Any customer can register on website using the registration form.
