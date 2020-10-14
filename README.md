@@ -26,7 +26,7 @@ In this website after the  admin login, Admin can able to add cake related infor
 - CSS *(Css has been used for all designing parts)*
 - JSP *(All the frontend logic written in JSP)*
 - JSTL tags *(JSTL tags used in JSP)*
-- Bootstrap *(Bootstrap used for REgistration and Login page)*
+- Bootstrap *(Bootstrap used for Registration and Login page)*
 - junit Testing *(Unit Testing is done using junit)*
 - Tomcat *(Project will be run locally over the tomcat server)*
 
