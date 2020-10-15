@@ -45,3 +45,9 @@ For building and running the application you need:
 
 ## Screenshots
 ![screenshot1](./Screenshots/FrontPage.png)
+![screenshot2](./Screenshots/AboutUs.png)
+![screenshot3](./Screenshots/gallery.png)
+![screenshot4](./Screenshots/RegistrationPage.png)
+![screenshot5](./Screenshots/LogIn.png)
+![screenshot6](./Screenshots/AddCake.png)
+![screenshot7](./Screenshots/OrderHere.png)
