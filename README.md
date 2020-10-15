@@ -44,3 +44,4 @@ For building and running the application you need:
 - My Products gallery page.
 
 ## Screenshots
+![screenshot1](./Screenshots/FrontPage.png)
