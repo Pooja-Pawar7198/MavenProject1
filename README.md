@@ -48,7 +48,7 @@ For building and running the application you need:
 
 ![screenshot2](./Screenshots/AboutUs.png)
 
-![screenshot3](./Screenshots/gallery.png
+![screenshot3](./Screenshots/gallery.png)
 
 ![screenshot4](./Screenshots/RegistrationPage.png)
 
